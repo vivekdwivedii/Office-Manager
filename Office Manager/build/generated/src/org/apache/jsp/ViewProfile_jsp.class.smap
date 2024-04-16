@@ -1,0 +1,16 @@
+SMAP
+ViewProfile_jsp.java
+JSP
+*S JSP
+*F
++ 0 ViewProfile.jsp
+ViewProfile.jsp
++ 1 EmployeeHeader.jsp
+EmployeeHeader.jsp
+*L
+5,5:50
+1#1,34:55
+9#0,3:89
+13,33:94
+45,5:127
+*E
